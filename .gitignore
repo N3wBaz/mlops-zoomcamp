@@ -1,4 +1,4 @@
-/02-experiment-tracking/output
+~/02-experiment-tracking/output
 # Ignore all files with the specified extension.
 # Scope is all repo folders.
 *.parquet
